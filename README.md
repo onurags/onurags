@@ -63,9 +63,22 @@
   
 <h3 align="left">📊 Github Stats:</h3>
 
+<table>
+  <tr>
+    
+  <td style="width: 50%;">
+   
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=anuragganvir&theme=dark&hide_border=false)
+  </td>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=anuragganvir&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=anuragganvir&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+  <td style="width: 50%;">
+    
+ ![](https://github-readme-stats.vercel.app/api?username=anuragganvir&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+  </td>
+  </tr>
+</table>
+
+<br/>
 <div align="center">
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragganvir&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
