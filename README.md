@@ -14,7 +14,7 @@
 
 - 🌱 Looking to contribute to **Open Source**
 
-- 👨‍💻 All of my projects are available at [Here](https://github.com/anuragganvir?tab=repositories)
+- 👨‍💻 All of my projects are available [Here](https://github.com/anuragganvir?tab=repositories)
 
 - 📫 How to reach me **anuragganvir2019@gmail.com**
 
