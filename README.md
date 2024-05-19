@@ -10,15 +10,15 @@
 ### 🙋‍♂️ About Me
 - 📚 Pursuing Engineering in ECE from **PES Modern College Of Engineering, Pune**
 
-- 🕵 I’m currently exploring **Cloud**
+- 🕵 Exploring **Cloud**
 
-- 🌱 I’m looking to contribute to **Open Source**
+- 🌱 Looking to contribute to **Open Source**
 
 - 👨‍💻 All of my projects are available at [Here](https://github.com/anuragganvir?tab=repositories)
 
 - 📫 How to reach me **anuragganvir2019@gmail.com**
 
-- ✌︎︎ Fond of **Cricket🏏 Badminton🏸 Documentation📄 Coding💻**
+- ✌︎︎ Fond of **Cricket🏏 Badminton🏸 Documentation📄 Coding💻** 
 
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
