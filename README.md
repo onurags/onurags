@@ -8,13 +8,13 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 ### 🙋‍♂️ About Me
-- 📚 I’m doing my Engineering in ECE from **PES Modern College Of Engineering, Pune**
+- 📚 Pursuing Engineering in ECE from **PES Modern College Of Engineering, Pune**
 
 - 🕵 I’m currently exploring **Cloud**
 
 - 🌱 I’m looking to contribute to **Open Source**
 
-- 👨‍💻 All of my projects are available at [https://github.com/anuragganvir?tab=repositories](https://github.com/anuragganvir?tab=repositories)
+- 👨‍💻 All of my projects are available at [Here](https://github.com/anuragganvir?tab=repositories)
 
 - 📫 How to reach me **anuragganvir2019@gmail.com**
 
