@@ -24,10 +24,14 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
   
-<h3 align="left">📬 Socials:</h3>
+<h3 align="left">📬 Reach me out:</h3>
 <p align="left">
-<a href="https://twitter.com/anuraganvir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anuraganvir" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anurag-ganvir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anurag-ganvir" height="30" width="40" /></a>
+<a href = "https://www.linkedin.com/in/anurag-ganvir/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/anuraganvir"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<!-- <a href = "https://www.instagram.com/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> -->
+<!-- <a href = "https://leetcode.com/sakshigoyat14/"><img src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="50rem" width="50rem"/></a> -->
+<a href = "https://auth.geeksforgeeks.org/user/anuragganvir"><img src="https://media.geeksforgeeks.org/wp-content/uploads/20210228231058/gfg.png" height="50rem" width="50rem"/></a>
+
 </p>
 
 <p align="left">
