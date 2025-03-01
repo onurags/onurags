@@ -12,8 +12,6 @@
 
 - 🕵 Exploring **Cloud**
 
-- 🌱 Looking to contribute to **Open Source**
-
 - 👨‍💻 All of my projects are available [Here](https://github.com/anuragganvir?tab=repositories)
 
 - 📫 How to reach me **anuragganvir2019@gmail.com**
@@ -38,7 +36,7 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
   
-<h3 align="left">💻 Tech Stacks:</h3>
+<h3 align="left">💻 Tech Stack:</h3>
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
