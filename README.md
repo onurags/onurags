@@ -62,27 +62,30 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
   
-<!-- <h3 align="left">📊 Github Stats:</h3>
+<h3 align="left">📊 Github Stats:</h3>
 
-<table>
+<!-- <table>
   <tr>
     
   <td style="width: 50%;">
    
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=anuragganvir&theme=dark&hide_border=false)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=onurags&theme=dark&hide_border=false)
   </td>
 
   <td style="width: 50%;">
     
- ![](https://github-readme-stats.vercel.app/api?username=anuragganvir&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+ ![](https://github-readme-stats.vercel.app/api?username=onurags&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
   </td>
   </tr>
-</table>  
+</table>  -->
 
 <br/>
 <div align="center">
   
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuragganvir&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=onurags&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
- -->
+ 
+
+
+
