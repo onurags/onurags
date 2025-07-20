@@ -64,7 +64,7 @@
   
 <h3 align="left">📊 Github Stats:</h3>
 
-<!-- <table>
+ <table>
   <tr>
     
   <td style="width: 50%;">
@@ -77,7 +77,7 @@
  ![](https://github-readme-stats.vercel.app/api?username=onurags&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
   </td>
   </tr>
-</table>  -->
+</table> 
 
 <br/>
 <div align="center">
